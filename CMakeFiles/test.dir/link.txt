@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-6/root/usr/bin/c++  -std=c++0x  -g -ftest-coverage -fprofile-arcs   CMakeFiles/test.dir/unit_test.cpp.o CMakeFiles/test.dir/genre.cpp.o CMakeFiles/test.dir/scan.cpp.o CMakeFiles/test.dir/movie.cpp.o CMakeFiles/test.dir/display.cpp.o  -o test  lib/libgtest.a -lpthread 
